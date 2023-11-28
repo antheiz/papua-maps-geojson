@@ -1,11 +1,11 @@
-# Peta Tanah Papua
+# Peta Pulau Papua
 
 > Crafted by [Theis Andatu](https://antheiz.my.id)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Project Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/antheiz/papua-maps-geojson/releases)
 
-Peta Tanah Papua dalam format GeoJSON. Data Peta Batas administrasi ini termasuk 4 provinsi pemekaran baru, Berikut ini daftar lengkap provinsi di Tanah Papua: 
+Peta Pulau Papua dalam format GeoJSON. Data Peta Batas administrasi ini termasuk 4 provinsi pemekaran baru, Berikut ini daftar lengkap provinsi di Tanah Papua: 
 
 ## Provinsi
 
@@ -16,7 +16,7 @@ Peta Tanah Papua dalam format GeoJSON. Data Peta Batas administrasi ini termasuk
 5. Papua Pegunungan 
 6. Papua Barat Daya
 
-# Demo
+# Tech Stack
 
 ![Demo Pulau Papua](./assets/images/demo.png)
 
